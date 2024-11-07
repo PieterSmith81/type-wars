@@ -8,7 +8,7 @@ A Star Wars-themed TypeScript course on GitBook. Featuring fundamentals training
 
 ## Tech Stack
 
-TypeScript, GitBook, Markdown
+TypeScript, GitBook, Markdown.
 
 ## Usage
 
