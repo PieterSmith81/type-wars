@@ -6,6 +6,10 @@ A Star Wars-themed TypeScript course on GitBook. Featuring fundamentals training
 
 ### https://superflyz.gitbook.io/type-wars
 
+## Tech Stack
+
+TypeScript, GitBook, Markdown
+
 ## Usage
 
 This is a GitBook-based technical documentation project, so there is no need to install anything to get up and running. Just click on the live website link above to get your TypeScript (and Star Wars) fix!
